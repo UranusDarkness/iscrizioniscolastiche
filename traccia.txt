@@ -1,0 +1,12 @@
+è stato richiesto sapere se sono aperte le iscrizioni per la scuola secondaria
+il portale permette di registrare il figlio ad una scuola specifica
+dev'esserci il portale per il genitore (username, password, nome, cognome) ad ogni utente è associato un ID.
+Una volta registrato può accedere in cui deve inserire username e password. Se l'utente è registrato può entrare nell'area personale (controllo utenti)
+In quest'area si può accedere solo se l'utente è loggato.
+//done
+Si ha la possibilità di iscrivere il proprio figlio (nell'area personale) che richiede: nome, cognome, scuola, indirizzo (viene ancora assegnato id)
+L'iscrizione ha: nome, cognome, indirizzo, scuola, id studente e id genitore
+Dal portale il genitore può osservare lo stato dell'iscrizione (se l'utente ha già registrato il figlio potrà visualizzare i dati inseriti per la registrazione a scuola 
+ed il numero di iscritti a quella scuola nel medesimo indirizzo) e iscrivere un figlio
+
+//assignment completed on january 27th
